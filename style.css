@@ -122,7 +122,7 @@ section {
 }
 
 .home {
-  background: url(/images/home-bg.jpg) no-repeat;
+  background: url(images/home-bg.jpg) no-repeat;
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
@@ -176,7 +176,7 @@ section {
 }
 
 .counter {
-  background: url(/images/counter-bg.jpg) no-repeat;
+  background: url(images/counter-bg.jpg) no-repeat;
   background-size: cover;
   background-position: center;
 }
@@ -482,7 +482,7 @@ section {
 }
 
 .footer {
-  background: url("/images/footer-bg.jpg") no-repeat;
+  background: url("images/footer-bg.jpg") no-repeat;
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
